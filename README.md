@@ -40,7 +40,7 @@ I didn't have to do a major cleanup of the data as most of the datasets were in 
 <br>
 <br>
 2. Global Green House Gas Emissions in percentage by Sector and Subsector
-
+<br>
 ![Emissions by Sector](https://github.com/skbusf/Data-Visualization-Automotive-Industry/blob/main/Images/EmissionsBySector.png)
 
 - From the above visualization it is evident that Energy Sector is the major contributor to global greenhouse gas emissions with a 73.2% contribution.
@@ -48,7 +48,7 @@ I didn't have to do a major cleanup of the data as most of the datasets were in 
 <br>
 <br>
 3. Category-wise Contribution to Transportation Sector in the United States
-
+<br>
 ![Emissions by Transportation Sector](https://github.com/skbusf/Data-Visualization-Automotive-Industry/blob/main/Images/EmissionsByTransportationSector.png)
 
 - For the year 2019 Vehicles have contributed to 75% of emissions in the transportation sector.
@@ -57,7 +57,7 @@ I didn't have to do a major cleanup of the data as most of the datasets were in 
 <br>
 <br>
 4. Green House Gas Emissions of United States from 2000-2019
-
+<br>
 ![Emissions by Year](https://github.com/skbusf/Data-Visualization-Automotive-Industry/blob/main/Images/EmissionsByYear.gif)
 
 - From the animation above it is evident that the greenhouse gas emissions of the United States are slightly on a downtrend.
@@ -65,7 +65,7 @@ I didn't have to do a major cleanup of the data as most of the datasets were in 
 <br>
 <br>
 5. CO2 Emissions by Manufacturers
-
+<br>
 ![Emissions by Manufacturers](https://github.com/skbusf/Data-Visualization-Automotive-Industry/blob/main/Images/EmissionsByManufacturers.png)
 
 - CO2 emissions have decreased over the years for every manufacturer of vehicles.
@@ -75,7 +75,7 @@ I didn't have to do a major cleanup of the data as most of the datasets were in 
 <br>
 <br>
 6. Miles Per Gallon (MPG) by Manufacturers
-
+<br>
 ![MPG by Manufacturers](https://github.com/skbusf/Data-Visualization-Automotive-Industry/blob/main/Images/MPGByManufacturers.png)
 
 - Miles Per Gallon is increasing over the years for each manufacturer's vehicles.
@@ -83,7 +83,7 @@ I didn't have to do a major cleanup of the data as most of the datasets were in 
 <br>
 <br>
 7. Change of Weight and Horsepower of the vehicles for all the manufacturers
-
+<br>
 ![Weight and HP by Manufacturers](https://github.com/skbusf/Data-Visualization-Automotive-Industry/blob/main/Images/WeightAndHPByManufacturer.png)
 
 - Interestingly the average horsepower and average weight of the vehicles for all the manufacturers have increased over the years.
@@ -92,7 +92,7 @@ I didn't have to do a major cleanup of the data as most of the datasets were in 
 <br>
 <br>
 8. Dashboard for Parameters by Vehicle Type
-
+<br>
 ![Dashboard by Vehicle Type](https://github.com/skbusf/Data-Visualization-Automotive-Industry/blob/main/Images/DashboardByVehicleType.png)
 
 From the dashboard, we can infer the following
@@ -103,7 +103,7 @@ From the dashboard, we can infer the following
 <br>
 <br>
 9. Sales of Electric, Plug-in Hybrid, Hybrid, and Passenger Cars
-
+<br>
 ![Sales of Alternate Energy Vehicles](https://github.com/skbusf/Data-Visualization-Automotive-Industry/blob/main/Images/SalesOfVehicleTypes.png)
 
 - Since 2011, their inception year, Electric vehicle sales are growing significantly.
